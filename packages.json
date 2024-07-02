@@ -1,0 +1,32 @@
+{
+    "packages": [
+        {
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+	    "name": "CQPub Jumper Example",
+	    "description": "CQPub Jumper Example",
+	    "description_full": "CQPub Jumper Example",
+	    "identifier": "com.github.soburi.cqpub-jumper-example",
+            "type": "library",
+            "author": {
+                "name": "soburi",
+                "contact": {
+                    "web": "https://github.com/soburi"
+                }
+            },
+            "license": "CC0-1.0",
+            "resources": {
+                "homepage": "https://github.com/soburi/cqpub-jumper-example"
+            },
+            "versions": [
+                {
+                    "download_sha256": "e3cde63fe33078b2d563b54c112516cd2e861b0ad29e15958d664e7e1ba26305",
+                    "download_size": 3810,
+                    "download_url": "https://soburi.github.io/cqpub-repo-example/cqpub-jumper-example_1.0.0.zip",
+                    "version": "1.0.0",
+                    "status": "stable",
+                    "kicad_version": "8.0"
+                }
+            ]
+        }
+    ]
+}

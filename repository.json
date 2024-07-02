@@ -1,0 +1,22 @@
+{
+    "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+    "maintainer": {
+        "contact": {
+            "web": "https://github.com/soburi/cqpub-repo-example/"
+        },
+        "name": "CQPub Example Repository Maintainer"
+    },
+    "name": "CQPub Example repository",
+    "packages": {
+        "sha256": "81890e805d59f6b7d7d9b0aba1204615582367557916ce42cc0e638c442e9cbb",
+        "update_time_utc": "2024-07-02 07:52:32",
+        "update_timestamp": 1719874352,
+        "url": "https://soburi.github.io/cqpub-repo-example/packages.json"
+    },
+    "resources": {
+        "sha256": "6bd64b84183ec2d3b4dd65125e715eb05a174581a7252d6e4d4ab6eade9c8a77",
+        "update_time_utc": "2024-07-02 07:49:23",
+        "update_timestamp": 1719874102,
+        "url": "https://soburi.github.io/cqpub-repo-example/resources.zip"
+    }
+}
